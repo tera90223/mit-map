@@ -14,7 +14,6 @@ This repository contains my implementation of Problem Set II from MIT's 6.0002 c
 ## Next Steps
 
 - Implement `get_best_path` function using DFS and optimization constraints.
-- Write test cases and verify correctness.
 - Analyze performance and edge cases.
 - Document results and visualize if necessary.
 
@@ -23,6 +22,10 @@ This repository contains my implementation of Problem Set II from MIT's 6.0002 c
 This project explores directed graphs and optimization problems using weighted paths. It simulates choosing the best route between buildings with constraints like distance and outdoor travel.
 
 ---
+## Course Reference
+This project is part of MIT 6.0002 – Introduction to Computational Thinking and Data Science
+You can find the full course on MIT OpenCourseWare:
 
-Course: MIT 6.0002  
+🔗 [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/]
+
 Topic: Graph-Theoretic Models and Optimization  
